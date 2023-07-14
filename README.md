@@ -4,7 +4,7 @@
 </h1>
 
 - 👋 Hi, Im @FedericoPivotto and currently I'm a student
-- 👀 I'm interested in AI, Robotics, IoT and so on …
+- 👀 I'm interested in AI, Robotics
 - 🌱 I'm currently learning Computer Engineering at University of Padua
 - 👾 I'm currently working on my thesis regarding Robotics
 - 📫 How to reach me: email or social media
