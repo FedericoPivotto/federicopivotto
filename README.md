@@ -10,9 +10,6 @@
 
 ---
 
-### :fire: My Stats :
-<img src="https://komarev.com/ghpvc/?username=FedericoPivotto&style=flat-square&color=blue" alt=""/>
-
 <p align="center">Made with ❤️ in Italy</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
