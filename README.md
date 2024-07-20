@@ -10,4 +10,4 @@
 
 ---
 
-<p align="left">Made with ❤️ in Italy</p>
+<p align="center">Made with ❤️ in Italy</p>
