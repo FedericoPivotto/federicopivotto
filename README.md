@@ -5,8 +5,8 @@
 
 - 👋 Hi, I'm @FedericoPivotto
 - 👀 I'm interested in AI and Robotics
-- 🎓 I obtained the Bachelor of Computer Engineering
-- 🌱 Currently I'm studying for achieving the Master of Computer Engineering
+- 🎓 I obtained the Bachelor of Computer Engineering at the University of Padua
+- 🌱 Currently I'm studying for achieving the Master of Computer Engineering at the University of Padua
 - 📫 How to reach me: email or social media
 
 ---
