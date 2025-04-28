@@ -10,5 +10,3 @@
 - 📫 How to reach me: email or social media
 
 ---
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
