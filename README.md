@@ -8,5 +8,3 @@
 - 🎓 I took the Bachelor's degree of Computer Engineering at the University of Padua
 - 🌱 Currently I'm attending the Master course of Computer Engineering at the University of Padua
 - 📫 How to reach me: email or social media
-
----
